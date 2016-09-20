@@ -13,10 +13,6 @@ import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
-/**
- * AndroidRL
- * Created by Anuj Bharat on 26/08/16 3:49 PM
- */
 public class CarListAdapter extends BaseAdapter {
     private static final int MIN_DISK_CACHE_SIZE = 32 * 1024 * 1024;       // 32MB
     private static final int MAX_DISK_CACHE_SIZE = 512 * 1024 * 1024;      // 512MB
